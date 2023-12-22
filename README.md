@@ -1,6 +1,6 @@
 # Runner
 
-state: `0.1 - `pre-alapha`
+state: `0.1 - pre-alapha`
 
 A metroid-vania platformer game based on movement and speed, made with c and OCML librairies.
 
